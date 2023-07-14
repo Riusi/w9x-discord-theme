@@ -14,8 +14,8 @@
 
 /* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
 :root {
-    --w9x-background-image: none;
-    --w9x-background-color: #008080;
+    --w9x-background-image: url(https://c4.wallpaperflare.com/wallpaper/335/216/997/final-fantasy-black-mage-beard-hd-wallpaper-preview.jpg);
+    --w9x-background-color: #9300ff;
     --w9x-start-text: "Windows95";
 }
 
